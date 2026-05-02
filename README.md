@@ -18,13 +18,12 @@
 ---
 
 ## 📸 Dashboard Preview
-
-![Sales Dashboard 2026](<img width="1118" height="624" alt="Screenshot 2026-05-02 223115" src="https://github.com/user-attachments/assets/d0a2f594-9adb-4dbd-95a2-dbf223f7820c" />
-)
-
-> 🔗 **[View Live Dashboard on Power BI Service]((https://app.powerbi.com/groups/me/reports/c859ee0d-d7bb-4e55-9f40-bd5a728e5464?ctid=89c8cfc9-2951-486a-ba45-25295d57450c&pbi_source=linkShare))**
+ 
+![Sales Dashboard 2026](dashboard_preview.png)
+ 
+> 🔗 **[View Live Dashboard on Power BI Service](YOUR_PUBLISHED_LINK_HERE)**
 > *(Published and optimised for both desktop and mobile view)*
-
+ 
 ---
 
 ## 📌 Key Business Findings

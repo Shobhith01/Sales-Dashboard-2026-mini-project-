@@ -19,7 +19,9 @@
 
 ## 📸 Dashboard Preview
  
-![Sales Dashboard 2026](<img width="707" height="740" alt="image" src="https://github.com/user-attachments/assets/1e485a35-a92f-43ff-a7ab-609fea17a309" />
+Sales Dashboard 2026
+
+<img width="707" height="740" alt="image" src="https://github.com/Shobhith01/Sales-Dashboard-2026-mini-project-/blob/main/dashboard_preview.png/dashboard_preview.png" />
  
  
 ---

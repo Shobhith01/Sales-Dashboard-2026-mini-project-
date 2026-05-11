@@ -19,10 +19,8 @@
 
 ## 📸 Dashboard Preview
  
-![Sales Dashboard 2026](dashboard_preview.png)
+![Sales Dashboard 2026](<img width="707" height="740" alt="image" src="https://github.com/user-attachments/assets/1e485a35-a92f-43ff-a7ab-609fea17a309" />
  
-> 🔗 **[View Live Dashboard on Power BI Service](YOUR_PUBLISHED_LINK_HERE)**
-> *(Published and optimised for both desktop and mobile view)*
  
 ---
 
